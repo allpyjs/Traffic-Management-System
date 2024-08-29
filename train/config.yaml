@@ -1,0 +1,7 @@
+
+train: datasets\train
+val: datasets\valid
+# test: ./test/images
+
+nc: 4
+names: ['truck', 'car', 'minibus', 'bus']
